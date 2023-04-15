@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/game-x-o.dir/game.cpp.o CMakeFiles/game-x-o.dir/func.cpp.o -o game-x-o 

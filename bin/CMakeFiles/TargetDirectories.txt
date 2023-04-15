@@ -1,0 +1,3 @@
+/home/roma/Coding/c++/game/game-x-o/bin/CMakeFiles/rebuild_cache.dir
+/home/roma/Coding/c++/game/game-x-o/bin/CMakeFiles/edit_cache.dir
+/home/roma/Coding/c++/game/game-x-o/bin/CMakeFiles/game-x-o.dir
